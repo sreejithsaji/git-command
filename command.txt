@@ -4,4 +4,8 @@ git config --global user.email "your email id"  [to add your email]
 
 git init                                        [to initialize an empty git repository]
 
+git init                                        [it is used to track file]
 
+git add                                         [is used to add]
+
+git commit -m "message"                         [to move stagged file to local repository]
