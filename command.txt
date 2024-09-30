@@ -1,0 +1,7 @@
+git config --global user.name "your user name"  [to add your username]
+
+git config --global user.email "your email id"  [to add your email]
+
+git init                                        [to initialize an empty git repository]
+
+
