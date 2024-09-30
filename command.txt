@@ -9,3 +9,18 @@ git init                                        [it is used to track file]
 git add                                         [is used to add]
 
 git commit -m "message"                         [to move stagged file to local repository]
+
+git push                                        [1R=>RR]
+
+git pull                                        [RR=>changes=>LWS]
+
+git clone                                       [RR=>exact copy=>LWS]
+
+git remote add  remote_name remote path         [adding remote]
+
+git push remote_name branch                     [push]
+
+git branch                                      [list all branches]
+
+ggit remote -v                                  [list all remote]
+
